@@ -1,0 +1,2 @@
+ADD.D R4 R3 R5
+MUL.D R5 R2 R1
